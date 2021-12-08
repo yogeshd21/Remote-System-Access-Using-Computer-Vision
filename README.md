@@ -17,3 +17,9 @@ The increase in electronic waste because of small computer input-output devices 
 ![image](https://user-images.githubusercontent.com/83297868/145293411-803d61f8-6fda-4716-aeaa-c4ba5c87ff98.png)
 
 Figures (a), (b) and (c) demonstrate the reach of the cursor in the different corners as per the display size and how it covers the extreme corners as well as task bar area well. Figure (d) demonstrates the actual system volume changes when we change the distance between the index finger and thumb for the audio control application. Figures (e) and (f) are consecutive images which demonstrate the click function for the cursor control application as the display window maximizes in the consecutive frame.
+
+## Computation Instructions:
+Other than the standard libraries you will have to install mediapipe library, autopy library (as per date compatible with python 3.8 version and below) and pycaw library.
+
+HandTracking.py - It is the module we have written which will help in different computations required.
+VirtualAll.py - This is the code you have to run to access the module/application.
