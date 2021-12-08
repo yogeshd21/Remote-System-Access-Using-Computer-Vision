@@ -21,5 +21,5 @@ Figures (a), (b) and (c) demonstrate the reach of the cursor in the different co
 ## Computation Instructions:
 Other than the standard libraries you will have to install mediapipe library, autopy library (as per date compatible with python 3.8 version and below) and pycaw library.
 
-HandTracking.py - It is the module we have written which will help in different computations required.
+HandTracking.py - It is the module we have written which will help in different computations required.<br/>
 VirtualAll.py - This is the code you have to run to access the module/application.
