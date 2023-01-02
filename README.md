@@ -1,4 +1,4 @@
-# Remote-System-Access-Using-Computer-Vision
+# Remote System Access Using Computer Vision
 ## Description: 
 A model for remote computer system access with applications like cursor control and audio control.
 
